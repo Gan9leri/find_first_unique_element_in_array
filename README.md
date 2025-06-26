@@ -23,11 +23,3 @@
 >Sample Output1:
 >
 >6
-
->Sample Input2:
->
->-2
-
->Sample Output1:
->
->-2
